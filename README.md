@@ -1,7 +1,20 @@
 ### Hi there 👋, i'm Matheus Vieira from MCZ
 
-- 🌱 I’m currently learning ... Flutter
-- ⚡ Fun fact: ...Maceió is the most beautiful city in Brazil!
+I'm a **full-stack JavaScript developer** focused on building modern, high-performance applications using **React** on the frontend and **Node.js** on the backend. My core stack revolves around **TypeScript**, **GraphQL**, **RESTful APIs**, and modern development tooling, always with an emphasis on scalability, clean architecture, and exceptional user experience.
+
+On the frontend, I work extensively with **React** and **Next.js** to craft rich, responsive, and maintainable interfaces. I apply best practices such as component-based architecture, strict typing with TypeScript, state management (Context API, Redux), and styling with **Tailwind CSS** or **CSS Modules** 🎨
+
+On the backend, I build robust APIs using **Node.js**, **Express**, **Fastify**, and **GraphQL**, with a focus on RESTful design, authentication with JWT 🔐, security, versioning, and testing. I'm experienced with relational databases like **PostgreSQL** and **SQLite**, and I use tools like **Docker** 🐳 for containerization and deployment.
+
+I'm also proficient in **mobile development** with **React Native**, delivering high-performance, cross-platform applications 📱. I handle native integrations, responsive layouts, navigation, and local data storage, always prioritizing usability and performance.
+
+My projects showcase the ability to work across the entire stack, from UI to database, delivering complete, tested, and optimized solutions. I value clean code, thoughtful documentation, and well-structured Git workflows.
+
+I'm always eager to take on new challenges and continuously level up my technical skills by participating in initiatives like **Rocketseat's Next Level Week**, coding challenges, and contributing to open source 🤝
+
+Let's build something great together 🚀
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
